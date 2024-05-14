@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\programc#.csproj": {}
+    "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 2th(bit)\\class 2th(bit).csproj": {}
   },
   "projects": {
-    "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\programc#.csproj": {
+    "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 2th(bit)\\class 2th(bit).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\programc#.csproj",
-        "projectName": "programc#",
-        "projectPath": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\programc#.csproj",
+        "projectUniqueName": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 2th(bit)\\class 2th(bit).csproj",
+        "projectName": "class 2th(bit)",
+        "projectPath": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 2th(bit)\\class 2th(bit).csproj",
         "packagesPath": "C:\\Users\\SBS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\obj\\",
+        "outputPath": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 2th(bit)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SBS\\AppData\\Roaming\\NuGet\\NuGet.Config",
