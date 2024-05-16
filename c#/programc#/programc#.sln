@@ -5,9 +5,11 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "programc#", "programc#.csproj", "{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class 1th(variable)", "..\class 1th(variable)\class 1th(variable).csproj", "{56BF4626-8007-4C5B-B097-BA2529C60425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "class 1th(variable)", "..\class 1th(variable)\class 1th(variable).csproj", "{56BF4626-8007-4C5B-B097-BA2529C60425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class 2th(bit)", "..\class 2th(bit)\class 2th(bit).csproj", "{D1CC97DB-0A18-44C6-A408-DD0FA9B8800F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "class 2th(bit)", "..\class 2th(bit)\class 2th(bit).csproj", "{D1CC97DB-0A18-44C6-A408-DD0FA9B8800F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class 3th(conditional statement)", "..\class 3th(conditional statement)\class 3th(conditional statement).csproj", "{6502BE06-46AA-4A1D-99BC-283B87E2F7A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D1CC97DB-0A18-44C6-A408-DD0FA9B8800F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1CC97DB-0A18-44C6-A408-DD0FA9B8800F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1CC97DB-0A18-44C6-A408-DD0FA9B8800F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6502BE06-46AA-4A1D-99BC-283B87E2F7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6502BE06-46AA-4A1D-99BC-283B87E2F7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6502BE06-46AA-4A1D-99BC-283B87E2F7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6502BE06-46AA-4A1D-99BC-283B87E2F7A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

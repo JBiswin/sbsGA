@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1CC97DB-0A18-44C6-A408-DD0FA9B8800F}|..\\class 2th(bit)\\class 2th(bit).csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\class 2th(bit)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\programc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6502BE06-46AA-4A1D-99BC-283B87E2F7A5}|..\\class 3th(conditional statement)\\class 3th(conditional statement).csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\class 3th(conditional statement)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CC97DB-0A18-44C6-A408-DD0FA9B8800F}|..\\class 2th(bit)\\class 2th(bit).csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\class 2th(bit)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,11 +20,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 3th(conditional statement)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\class 3th(conditional statement)\\Program.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 3th(conditional statement)\\Program.cs",
+              "RelativeToolTip": "..\\class 3th(conditional statement)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:37:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 2th(bit)\\Program.cs",
               "RelativeDocumentMoniker": "..\\class 2th(bit)\\Program.cs",
@@ -34,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T04:37:24.945Z",
               "EditorCaption": ""
