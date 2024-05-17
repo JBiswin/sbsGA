@@ -7,7 +7,7 @@ namespace programc_
     {
         static void Main(string[] args)
         {
-           
+            
 
 
 
