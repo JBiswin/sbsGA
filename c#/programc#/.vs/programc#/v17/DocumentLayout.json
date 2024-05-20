@@ -7,13 +7,7 @@
       "RelativeMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59248229-FBF7-4B48-8758-6137C7816D08}|..\\class 4th(iteration)\\class 4th(iteration).csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\class 4th(iteration)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6502BE06-46AA-4A1D-99BC-283B87E2F7A5}|..\\class 3th(conditional statement)\\class 3th(conditional statement).csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\class 3th(conditional statement)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1CC97DB-0A18-44C6-A408-DD0FA9B8800F}|..\\class 2th(bit)\\class 2th(bit).csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\class 2th(bit)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EC042E3-9450-4668-AEFB-5C0D43CA2FC7}|..\\class 5th(arraygement)\\class 5th(arraygement).csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\class 5th(arraygement)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,44 +17,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 4th(iteration)\\Program.cs",
-              "RelativeDocumentMoniker": "..\\class 4th(iteration)\\Program.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 4th(iteration)\\Program.cs",
-              "RelativeToolTip": "..\\class 4th(iteration)\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOcAAAAWAAAA",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 5th(arraygement)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\class 5th(arraygement)\\Program.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 5th(arraygement)\\Program.cs",
+              "RelativeToolTip": "..\\class 5th(arraygement)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T06:40:31.371Z",
+              "WhenOpened": "2024-05-20T06:38:27.725Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 3th(conditional statement)\\Program.cs",
-              "RelativeDocumentMoniker": "..\\class 3th(conditional statement)\\Program.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 3th(conditional statement)\\Program.cs",
-              "RelativeToolTip": "..\\class 3th(conditional statement)\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:37:36.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 2th(bit)\\Program.cs",
-              "RelativeDocumentMoniker": "..\\class 2th(bit)\\Program.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 2th(bit)\\Program.cs",
-              "RelativeToolTip": "..\\class 2th(bit)\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:35:32.664Z"
             },
             {
               "$type": "Document",
@@ -70,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T04:37:24.945Z",
               "EditorCaption": ""
