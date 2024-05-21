@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("class 5th(arraygement)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3de9e1d1491a7fcbae8ebd5888f4a841f358097a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8dda855f1129f233008ae4555bd875aaa23aa4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("class 5th(arraygement)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("class 5th(arraygement)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
