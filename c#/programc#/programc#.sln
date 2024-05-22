@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "class 4th(iteration)", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "class 5th(arraygement)", "..\class 5th(arraygement)\class 5th(arraygement).csproj", "{6EC042E3-9450-4668-AEFB-5C0D43CA2FC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class 6th(function)", "..\class 6th(function)\class 6th(function).csproj", "{C427AACE-81DA-4DE8-800E-26E0B620B146}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "class 6th(function)", "..\class 6th(function)\class 6th(function).csproj", "{C427AACE-81DA-4DE8-800E-26E0B620B146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class 7th(class)", "..\class 7th(class)\class 7th(class).csproj", "{DB333622-0910-463A-A76E-D1293188825E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C427AACE-81DA-4DE8-800E-26E0B620B146}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C427AACE-81DA-4DE8-800E-26E0B620B146}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C427AACE-81DA-4DE8-800E-26E0B620B146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB333622-0910-463A-A76E-D1293188825E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB333622-0910-463A-A76E-D1293188825E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB333622-0910-463A-A76E-D1293188825E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB333622-0910-463A-A76E-D1293188825E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
