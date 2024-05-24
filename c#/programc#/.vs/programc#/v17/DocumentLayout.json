@@ -7,24 +7,7 @@
       "RelativeMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\programc#\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|solutionrelative:unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\programc#\\marine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|solutionrelative:marine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\programc#\\firebet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|solutionrelative:firebet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\programc#\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|solutionrelative:ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\programc#\\barracks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C35BBD6-9B3C-47E4-9276-68555A5F98F8}|programc#.csproj|solutionrelative:barracks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49CD2DA5-96D9-4C56-AB02-21F729ACD285}|..\\class 9th(random)\\class 9th(random).csproj|c:\\users\\sbs\\desktop\\c#\\sbsga\\c#\\class 9th(random)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,71 +17,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Barracks.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Barracks.cs",
-              "RelativeDocumentMoniker": "Barracks.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Barracks.cs",
-              "RelativeToolTip": "Barracks.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T06:04:16.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ghost.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Ghost.cs",
-              "RelativeDocumentMoniker": "Ghost.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Ghost.cs",
-              "RelativeToolTip": "Ghost.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T04:32:29.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Firebet.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Firebet.cs",
-              "RelativeDocumentMoniker": "Firebet.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Firebet.cs",
-              "RelativeToolTip": "Firebet.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvxoAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T04:32:15.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Marine.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Marine.cs",
-              "RelativeDocumentMoniker": "Marine.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Marine.cs",
-              "RelativeToolTip": "Marine.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAwB8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T03:12:40.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Unit.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Unit.cs",
-              "RelativeDocumentMoniker": "Unit.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Unit.cs",
-              "RelativeToolTip": "Unit.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAIwB8AAAAvAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 9th(random)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\class 9th(random)\\Program.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\class 9th(random)\\Program.cs",
+              "RelativeToolTip": "..\\class 9th(random)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkBAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T03:09:43.247Z",
+              "WhenOpened": "2024-05-24T06:37:48.094Z",
               "EditorCaption": ""
             },
             {
@@ -109,9 +40,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\sbsGA\\c#\\programc#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAOIAAAAAAAAAAAAAAO4AAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T04:37:24.945Z",
+              "WhenOpened": "2024-05-24T03:08:20.691Z",
               "EditorCaption": ""
             }
           ]

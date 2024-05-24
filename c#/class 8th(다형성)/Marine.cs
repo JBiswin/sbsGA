@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace programc_
+namespace class_8th_다형성_
 {
     internal class Marine : Unit
     {
