@@ -22,10 +22,15 @@ public class Runner : MonoBehaviour
         
     }
 
-   
-    void Update()
+    private void OnEnable()
     {
-        LineState();
+        InpuManager.insTance.action += OnkeyUpdate;
+    }
+
+
+    private void OnDisable()
+    {
+        InpuManager.insTance.action -= OnkeyUpdate;
     }
 
     private void FixedUpdate()
@@ -38,63 +43,27 @@ public class Runner : MonoBehaviour
         body.position = new Vector3(positionX * (int)line, 0, 0);
     }
 
-    //    public void LineState()
-    //    {
-    //       if(Input.GetKeyDown(KeyCode.LeftArrow))
-    //        {
-    //            if(line == RoadLine.MIDDLE)
-    //            {
-    //                linestate = linestate - 1;
-    //   
-    //                line = RoadLine.LEFT;
-    //            }
-    //   
-    //            else if (line == RoadLine.RIGHT)
-    //            {
-    //                linestate = linestate - 1;
-    //   
-    //                line = RoadLine.MIDDLE;
-    //            }
-    //        }
-    //   
-    //        if(Input.GetKeyDown(KeyCode.RightArrow))
-    //        {
-    //            if(line == RoadLine.MIDDLE)
-    //            {
-    //                linestate = linestate + 1;
-    //   
-    //                line = RoadLine.RIGHT;
-    //            }
-    //   
-    //            else if ( line == RoadLine.LEFT)
-    //            {
-    //                linestate = linestate + 1;
-    //   
-    //                line = RoadLine.MIDDLE;
-    //            }
-    //            
-    //        }
-    //    }
+    
 
-    public void LineState()
+    public void OnkeyUpdate()
     {
-
-        if (linestate >= -1 || linestate <= 1)
+        if(Input.GetKeyDown(KeyCode.LeftArrow))
         {
-
-            if (Input.GetKeyDown(KeyCode.LeftArrow))
+            if(line != RoadLine.LEFT)
             {
-                line = line - 1;
-                linestate = linestate - 1;
-            }
-
-            if (Input.GetKeyDown(KeyCode.RightArrow))
-            {
-                line = line + 1;
-
-                linestate = linestate + 1;
+                line--;
             }
         }
-        
+
+        if (Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            if (line != RoadLine.RIGHT)
+            {
+                line++;
+            }
+        }
+
+
+
     }
 }
