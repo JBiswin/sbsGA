@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638617190099424626
-    m_Hash: 2761081177
+      ticks: 638617964220009363
+    m_Hash: 3560010397
   m_LockFileStatus:
     m_FilePath: C:/Users/Administrator/Desktop/C_study/sbsGA/c#/Run Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638617190099504281
-    m_Hash: 3496224175
+      ticks: 638617964220059231
+    m_Hash: 1522125115
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -756,18 +756,18 @@ m_ResolvedPackages:
     recommended: 1.7.6
     deprecated: []
   dependencies:
-  - name: com.unity.modules.audio
-    version: 1.0.0
   - name: com.unity.modules.director
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
   - name: com.unity.modules.particlesystem
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.modules.audio
-    version: 1.0.0
   - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.audio
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
@@ -3344,7 +3344,6 @@ m_ResolvedPackages:
     - 1.4.2
     - 1.4.3
     - 1.4.4
-    - 1.4.5
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -3365,7 +3364,6 @@ m_ResolvedPackages:
     - 1.4.2
     - 1.4.3
     - 1.4.4
-    - 1.4.5
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -3469,12 +3467,10 @@ m_ResolvedPackages:
     - 1.2.3
     - 1.2.4
     - 1.2.5
-    - 1.2.6
     compatible:
     - 1.2.4
     - 1.2.5
-    - 1.2.6
-    recommended: 1.2.6
+    recommended: 1.2.5
     deprecated: []
   dependencies:
   - name: com.unity.test-framework

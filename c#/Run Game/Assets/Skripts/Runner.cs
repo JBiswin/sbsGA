@@ -19,7 +19,7 @@ public class Runner : MonoBehaviour
     int linestate = 0;
     void Start()
     {
-        
+        body = GetComponent<Rigidbody>();
     }
 
     private void OnEnable()

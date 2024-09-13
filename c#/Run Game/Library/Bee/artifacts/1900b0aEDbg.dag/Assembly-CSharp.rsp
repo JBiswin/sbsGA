@@ -355,9 +355,13 @@
 -analyzer:"C:/Program Files/Unity 2022.3.14f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity 2022.3.14f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Skripts/InpuManager.cs"
+"Assets/Skripts/InterfaceManager.cs"
+"Assets/Skripts/LoadManager.cs"
+"Assets/Skripts/Road.cs"
 "Assets/Skripts/Runner.cs"
 "Assets/Skripts/SceneryManager.cs"
 "Assets/Skripts/SingleTon.cs"
+"Assets/Skripts/Zone.cs"
 -langversion:9.0
 
 /deterministic
