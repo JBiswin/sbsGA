@@ -60,14 +60,17 @@
     <Analyzer Include="C:\Program Files\Unity 2022.3.14f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Skripts\LoadManager.cs" />
+    <Compile Include="Assets\Skripts\managers\InpuManager.cs" />
+    <Compile Include="Assets\Skripts\managers\coinmanager.cs" />
+    <Compile Include="Assets\Skripts\managers\InterfaceManager.cs" />
+    <Compile Include="Assets\Skripts\managers\Gameobject.cs" />
     <Compile Include="Assets\Skripts\Zone.cs" />
-    <Compile Include="Assets\Skripts\SingleTon.cs" />
-    <Compile Include="Assets\Skripts\InpuManager.cs" />
-    <Compile Include="Assets\Skripts\InterfaceManager.cs" />
+    <Compile Include="Assets\Skripts\managers\coin.cs" />
+    <Compile Include="Assets\Skripts\managers\SceneryManager.cs" />
     <Compile Include="Assets\Skripts\Road.cs" />
-    <Compile Include="Assets\Skripts\SceneryManager.cs" />
     <Compile Include="Assets\Skripts\Runner.cs" />
+    <Compile Include="Assets\Skripts\managers\LoadManager.cs" />
+    <Compile Include="Assets\Skripts\managers\SingleTon.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
