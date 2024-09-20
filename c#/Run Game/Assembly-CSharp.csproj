@@ -64,6 +64,7 @@
     <Compile Include="Assets\Skripts\managers\coinmanager.cs" />
     <Compile Include="Assets\Skripts\managers\InterfaceManager.cs" />
     <Compile Include="Assets\Skripts\managers\Gameobject.cs" />
+    <Compile Include="Assets\Skripts\managers\MenuManager.cs" />
     <Compile Include="Assets\Skripts\Zone.cs" />
     <Compile Include="Assets\Skripts\managers\coin.cs" />
     <Compile Include="Assets\Skripts\managers\SceneryManager.cs" />
