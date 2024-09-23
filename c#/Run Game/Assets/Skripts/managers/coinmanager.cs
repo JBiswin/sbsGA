@@ -5,6 +5,7 @@ using UnityEngine;
 public class coinmanager : MonoBehaviour
 {
     [SerializeField] GameObject prefab;
+    [SerializeField] List<GameObject> coins;
     [SerializeField] float offset = 2.5f;
     [SerializeField] int ceratecount = 16;
     [SerializeField] int positionX = 0;
@@ -20,14 +21,11 @@ public class coinmanager : MonoBehaviour
             GameObject clone = Instantiate(prefab);
             clone.transform.SetParent(gameObject.transform);
             clone.transform.localPosition = new Vector3(0, 0, offset * i);
-            int index = clone.name.IndexOf("(Clone)");
-            clone.SetActive(false);
-            if(index >0)
-            {
-                clone.name = clone.name.Substring(0, index);
-            }
             
-
+            clone.SetActive(false);
+            
+            coins.Add(clone);
+            
         }
 
         

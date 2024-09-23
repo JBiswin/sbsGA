@@ -361,10 +361,12 @@
 "Assets/Skripts/managers/InterfaceManager.cs"
 "Assets/Skripts/managers/LoadManager.cs"
 "Assets/Skripts/managers/MenuManager.cs"
+"Assets/Skripts/managers/RotationObject.cs"
 "Assets/Skripts/managers/SceneryManager.cs"
 "Assets/Skripts/managers/SingleTon.cs"
 "Assets/Skripts/Road.cs"
 "Assets/Skripts/Runner.cs"
+"Assets/Skripts/SelectButton.cs"
 "Assets/Skripts/Zone.cs"
 -langversion:9.0
 

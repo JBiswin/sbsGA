@@ -1,12 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class LoadManager : MonoBehaviour
 {
     [SerializeField] int createcount = 4;
     [SerializeField] float speed = 5f;
-    [SerializeField] List<GameObject> list = new List<GameObject>();
+    [SerializeField] List<GameObject> roads = new List<GameObject>();
     [SerializeField] float offset = 40.0f;
 
     private void Awake()
@@ -15,7 +16,15 @@ public class LoadManager : MonoBehaviour
     }
     void Start()
     {
-        list.Capacity = 10;
+        roads.Capacity = 10;
+    }
+
+    void AddRoad()
+    {
+        for(int i =0; i< roads.Count; i++)
+        {
+            roads.Add(transform.GetChild(i).gameObject);
+        }
     }
 
     
@@ -23,26 +32,26 @@ public class LoadManager : MonoBehaviour
     {
         for(int i =0; i<createcount; i++)
         {
-            list[i].transform.Translate(Vector3.back * speed * Time.deltaTime);
+            roads[i].transform.Translate(Vector3.back * speed * Time.deltaTime);
         }
 
         
     }
 
-    public void AddRoad()
+    public void NewPosition()
     {
-        GameObject newroad = list[0];
+        GameObject newroad = roads[0];
 
-        list.Remove(newroad);
+        roads.Remove(newroad);
 
-        float newZ = list[list.Count -1].transform.position.z + offset;
+        float newZ = roads[roads.Count - 1].transform.position.z + offset;
 
-        newroad.transform.position = new Vector3(0,0, newZ);
+        newroad.transform.position = new Vector3(0, 0, newZ);
 
-        list.Add(newroad);
-
-         
+        roads.Add(newroad);
     }
+
+   
 
     
 }

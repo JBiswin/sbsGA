@@ -62,12 +62,14 @@
   <ItemGroup>
     <Compile Include="Assets\Skripts\managers\InpuManager.cs" />
     <Compile Include="Assets\Skripts\managers\coinmanager.cs" />
+    <Compile Include="Assets\Skripts\managers\RotationObject.cs" />
     <Compile Include="Assets\Skripts\managers\InterfaceManager.cs" />
     <Compile Include="Assets\Skripts\managers\Gameobject.cs" />
     <Compile Include="Assets\Skripts\managers\MenuManager.cs" />
     <Compile Include="Assets\Skripts\Zone.cs" />
     <Compile Include="Assets\Skripts\managers\coin.cs" />
     <Compile Include="Assets\Skripts\managers\SceneryManager.cs" />
+    <Compile Include="Assets\Skripts\SelectButton.cs" />
     <Compile Include="Assets\Skripts\Road.cs" />
     <Compile Include="Assets\Skripts\Runner.cs" />
     <Compile Include="Assets\Skripts\managers\LoadManager.cs" />

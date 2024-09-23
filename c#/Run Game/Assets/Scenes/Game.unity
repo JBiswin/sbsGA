@@ -148,13 +148,25 @@ MonoBehaviour:
   callback:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 92e11b46d0134d8408388487fe4cef6b, type: 3}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 0
+      - m_Target: {fileID: 586911144}
+        m_TargetAssemblyTypeName: LoadManager, Assembly-CSharp
+        m_MethodName: NewPosition
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1462386499}
+        m_TargetAssemblyTypeName: coinmanager, Assembly-CSharp
+        m_MethodName: InitializePosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -298,9 +310,9 @@ MonoBehaviour:
   callback:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 92e11b46d0134d8408388487fe4cef6b, type: 3}
-        m_TargetAssemblyTypeName: UnityEngine.Object, UnityEngine
-        m_MethodName: 
+      - m_Target: {fileID: 586911144}
+        m_TargetAssemblyTypeName: LoadManager, Assembly-CSharp
+        m_MethodName: NewPosition
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -310,9 +322,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 11500000, guid: 93734368918ef0d499bb3eb25c1a8b50, type: 3}
-        m_TargetAssemblyTypeName: UnityEngine.Object, UnityEngine
-        m_MethodName: 
+      - m_Target: {fileID: 9159763002282942940}
+        m_TargetAssemblyTypeName: coinmanager, Assembly-CSharp
+        m_MethodName: InitializePosition
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -347,13 +359,25 @@ MonoBehaviour:
   callback:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 92e11b46d0134d8408388487fe4cef6b, type: 3}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 0
+      - m_Target: {fileID: 586911144}
+        m_TargetAssemblyTypeName: LoadManager, Assembly-CSharp
+        m_MethodName: NewPosition
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1875786495}
+        m_TargetAssemblyTypeName: coinmanager, Assembly-CSharp
+        m_MethodName: InitializePosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -390,7 +414,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   createcount: 4
   speed: 5
-  list:
+  roads:
   - {fileID: 463732323}
   - {fileID: 531994911}
   - {fileID: 803294084}
@@ -612,13 +636,25 @@ MonoBehaviour:
   callback:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 92e11b46d0134d8408388487fe4cef6b, type: 3}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 0
+      - m_Target: {fileID: 586911144}
+        m_TargetAssemblyTypeName: LoadManager, Assembly-CSharp
+        m_MethodName: NewPosition
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1462386499}
+        m_TargetAssemblyTypeName: coinmanager, Assembly-CSharp
+        m_MethodName: InitializePosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1097,7 +1133,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7544368611790145139, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10.01
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7544368611790145139, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1136,6 +1172,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
+--- !u!114 &1462386499 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5123094503591121424, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
+  m_PrefabInstance: {fileID: 1462386498}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93734368918ef0d499bb3eb25c1a8b50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1594589183
 GameObject:
   m_ObjectHideFlags: 0
@@ -1301,7 +1348,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7544368611790145139, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10.01
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7544368611790145139, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1340,6 +1387,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
+--- !u!114 &1875786495 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5123094503591121424, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
+  m_PrefabInstance: {fileID: 1875786494}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93734368918ef0d499bb3eb25c1a8b50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1927959151
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1358,7 +1416,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7544368611790145139, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10.01
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7544368611790145139, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3029,8 +3087,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   line: 0
-  body: {fileID: 0}
+  body: {fileID: 4343373465076660243}
   positionX: 2
+  speed: 25
 --- !u!54 &4343373465076660243
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3056,7 +3115,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 64
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!136 &4343373465076660244
 CapsuleCollider:
@@ -4784,6 +4843,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 463732326}
     m_Modifications:
+    - target: {fileID: 5123094503591121424, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
+      propertyPath: positionX
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5123094503591121424, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
+      propertyPath: coins.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7544368611790145139, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -4794,7 +4861,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7544368611790145139, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10.01
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7544368611790145139, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4833,6 +4900,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
+--- !u!114 &9159763002282942940 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5123094503591121424, guid: b042a9022d9a7f94e9fcdf0d819bd1ed, type: 3}
+  m_PrefabInstance: {fileID: 9159763002282942939}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93734368918ef0d499bb3eb25c1a8b50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &9182036489735718054
 GameObject:
   m_ObjectHideFlags: 0
