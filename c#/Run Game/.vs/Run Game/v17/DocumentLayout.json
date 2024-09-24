@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\c_study\\sbsga\\c#\\run game\\assets\\skripts\\managers\\speedmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\managers\\speedmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\c_study\\sbsga\\c#\\run game\\assets\\skripts\\managers\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\managers\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\assets\\skripts\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\assets\\skripts\\managers\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\managers\\inpumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\assets\\skripts\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\assets\\skripts\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,7 +39,7 @@
       "RelativeMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\managers\\loadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\c_study\\sbsga\\c#\\run game\\assets\\skripts\\selectbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\assets\\skripts\\selectbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAD3E9C9-702A-CDA6-70D1-4D902B2CA28E}|Assembly-CSharp.csproj|solutionrelative:assets\\skripts\\selectbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,20 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SelectButton.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\SelectButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Skripts\\SelectButton.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\SelectButton.cs",
-              "RelativeToolTip": "Assets\\Skripts\\SelectButton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "DocumentIndex": 0,
+              "Title": "SpeedManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\SpeedManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Skripts\\managers\\SpeedManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\SpeedManager.cs",
+              "RelativeToolTip": "Assets\\Skripts\\managers\\SpeedManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T04:35:49.518Z",
+              "WhenOpened": "2024-09-24T04:32:08.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "InterfaceManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\InterfaceManager.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\managers\\InterfaceManager.cs",
@@ -119,12 +123,11 @@
               "RelativeToolTip": "Assets\\Skripts\\managers\\InterfaceManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T04:12:22.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T04:12:22.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LoadManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\LoadManager.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\managers\\LoadManager.cs",
@@ -132,12 +135,11 @@
               "RelativeToolTip": "Assets\\Skripts\\managers\\LoadManager.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAuwCIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T03:58:13.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T03:58:13.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SingleTon.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\SingleTon.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\managers\\SingleTon.cs",
@@ -149,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "InpuManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\InpuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\managers\\InpuManager.cs",
@@ -157,12 +159,11 @@
               "RelativeToolTip": "Assets\\Skripts\\managers\\InpuManager.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T03:52:46.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T03:52:46.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Gameobject.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\Gameobject.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\managers\\Gameobject.cs",
@@ -174,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SceneryManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\SceneryManager.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\managers\\SceneryManager.cs",
@@ -182,12 +183,11 @@
               "RelativeToolTip": "Assets\\Skripts\\managers\\SceneryManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T06:16:37.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T06:16:37.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "coin.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\coin.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\managers\\coin.cs",
@@ -195,25 +195,24 @@
               "RelativeToolTip": "Assets\\Skripts\\managers\\coin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T04:45:04.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T04:45:04.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "coinmanager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\coinmanager.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\managers\\coinmanager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\coinmanager.cs",
               "RelativeToolTip": "Assets\\Skripts\\managers\\coinmanager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T04:43:35.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "InterfaceManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\InterfaceManager.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\InterfaceManager.cs",
@@ -225,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Road.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\Road.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\Road.cs",
@@ -233,18 +232,17 @@
               "RelativeToolTip": "Assets\\Skripts\\Road.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T05:45:39.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T05:45:39.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Runner.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\Runner.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\Runner.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\Runner.cs",
               "RelativeToolTip": "Assets\\Skripts\\Runner.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDEAAAADAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCkAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T05:24:45.693Z",
               "EditorCaption": ""
@@ -252,6 +250,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "SelectButton.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\SelectButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Skripts\\SelectButton.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\SelectButton.cs",
+              "RelativeToolTip": "Assets\\Skripts\\SelectButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T04:35:49.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "RotationObject.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\RotationObject.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\managers\\RotationObject.cs",
@@ -263,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Zone.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\Zone.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\Zone.cs",
@@ -275,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MenuManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\sbsGA\\c#\\Run Game\\Assets\\Skripts\\managers\\MenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Skripts\\managers\\MenuManager.cs",

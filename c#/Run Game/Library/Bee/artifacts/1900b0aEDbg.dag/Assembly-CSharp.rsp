@@ -364,6 +364,7 @@
 "Assets/Skripts/managers/RotationObject.cs"
 "Assets/Skripts/managers/SceneryManager.cs"
 "Assets/Skripts/managers/SingleTon.cs"
+"Assets/Skripts/managers/SpeedManager.cs"
 "Assets/Skripts/Road.cs"
 "Assets/Skripts/Runner.cs"
 "Assets/Skripts/SelectButton.cs"
